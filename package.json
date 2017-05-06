@@ -14,9 +14,9 @@
   "author": "Jacob Marttinen (jacob@marttinen.ca)",
   "license": "MIT",
   "dependencies": {
-    "config": "^1.26.1",
+    "babel-preset-env": "^1.4.0",
+    "babel-register": "^6.24.1",
     "koa": "^2.2.0",
-    "koa-bodyparser": "^4.2.0",
     "koa-json": "^2.0.2",
     "koa-logger": "^2.0.1",
     "koa-router": "^7.1.1"
