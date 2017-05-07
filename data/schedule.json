@@ -11,7 +11,8 @@
         },
         {
             "dateString": "July 6 2017",
-            "name": "Newark",
+            "locality": "newark",
+            "localityPretty": "Newark",
             "with": ["Newfield"],
             "AM": false,
             "PM": true,
@@ -19,7 +20,8 @@
         },
         {
             "dateString": "July 7 2017",
-            "name": "Newark",
+            "locality": "newark",
+            "localityPretty": "Newark",
             "with": ["Newfield"],
             "AM": true,
             "PM": true,
@@ -32,7 +34,8 @@
         },
         {
             "dateString": "July 9 2017",
-            "name": "Wilmington",
+            "locality": "wilmington",
+            "localityPretty": "Wilmington",
             "with": [],
             "AM": true,
             "PM": true,
@@ -45,7 +48,8 @@
         },
         {
             "dateString": "July 11 2017",
-            "name": "Detroit",
+            "locality": "detroit",
+            "localityPretty": "Detroit",
             "with": [],
             "AM": true,
             "PM": true,
@@ -58,7 +62,8 @@
         },
         {
             "dateString": "July 13 2017",
-            "name": "Sault Ste. Marie",
+            "locality": "sault_ste_marie",
+            "localityPretty": "Sault Ste. Marie",
             "with": ["Barrie"],
             "AM": true,
             "PM": true,
@@ -71,7 +76,8 @@
         },
         {
             "dateString": "July 15 2017",
-            "name": "Hancock",
+            "locality": "hancock",
+            "localityPretty": "Hancock",
             "with": ["Chatham"],
             "AM": true,
             "PM": true,
@@ -79,7 +85,8 @@
         },
         {
             "dateString": "July 16 2017",
-            "name": "Hancock",
+            "locality": "hancock",
+            "localityPretty": "Hancock",
             "with": ["Chatham"],
             "AM": true,
             "PM": false,
