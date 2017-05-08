@@ -51,10 +51,10 @@ app.use(function(ctx, next) {
 
 router
     .get('/schedule', function(ctx, next) {
-        ctx.body = schedule;
-    })
-    .get('/localities', function(ctx, next) {
-        ctx.body = localities;
+        ctx.body = {
+            "schedule": schedule.schedule,
+            "localities": localities
+        };
     });
 
 app.use(router.routes());
