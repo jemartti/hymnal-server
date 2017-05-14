@@ -268,7 +268,7 @@
             "dateString": "August 9",
             "locality": "davenport",
             "localityPretty": "Davenport",
-            "with": ["Tri-Cities", "Summerland"],
+            "with": ["Tri‐Cities", "Summerland"],
             "AM": true,
             "PM": true,
             "isSunday": false
@@ -277,7 +277,7 @@
             "dateString": "August 10",
             "status": "Travel",
             "locality": "tricities",
-            "comment": "via Tri-Cities",
+            "comment": "via Tri‐Cities",
             "isSunday": false
         },
         {
